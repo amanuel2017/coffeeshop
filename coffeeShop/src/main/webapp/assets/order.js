@@ -1,7 +1,7 @@
 console.log("helooooo");
 $("#addOrder").click(function(){
 	
-	console.log("kaleb");
+	console.log("amanuel");
     $.get("addOrder",
     {
         selProduct: $(".selProduct").val(),
